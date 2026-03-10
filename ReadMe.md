@@ -6,7 +6,7 @@ I like building tools that solve real problems — from emotional AI productivit
 
 🏆 BASEF 2025 – 1st Place  
 🥈 WorldSkills Egypt 2025 – 2nd Place  
-🔬 ISEF Finalist  
+🔬 ISEF Finalist 2026
 
 ---
 
@@ -25,10 +25,10 @@ Exploring how AI can support emotional literacy, learning, and productivity.
 
 ## Tech I Use Most
 
-Flutter • Dart  
-Python • Django  
-React • JavaScript  
-Supabase • PostgreSQL  
+Flutter • Dart
+Python • Django
+React • JavaScript
+Supabase • PostgreSQL
 Docker • Linux
 
 ---
