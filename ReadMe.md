@@ -2,48 +2,44 @@
 
 Student developer from Alexandria, Egypt.
 
-I like building tools that solve real problems — from emotional AI productivity apps to developer utilities and experimental systems.
+I enjoy building tools that solve real problems, especially around productivity, emotional awareness, and developer tooling.
 
-🏆 BASEF 2025 – 1st Place  
-🥈 WorldSkills Egypt 2025 – 2nd Place  
-🔬 ISEF Finalist 2026
+BASEF 2025 – 1st Place  
+WorldSkills Egypt 2025 – 2nd Place  
+ISEF Finalist 2026
 
----
 
 ## What I'm Building
 
-**Emovate**  
-An AI-powered productivity system that integrates emotional awareness with task management and adaptive scheduling.
+Emovate  
+An AI-powered productivity system that combines emotional awareness with task management and adaptive scheduling.
 
-**Flutter Developer Tools**  
-Utilities and experiments focused on improving productivity for developers.
+Flutter developer tools  
+Small utilities and experiments focused on improving developer workflows.
 
-**AI + Behavioral Systems**  
-Exploring how AI can support emotional literacy, learning, and productivity.
+AI and behavioral systems  
+Exploring how software can support emotional literacy, learning, and productivity.
 
----
 
-## Tech I Use Most
+## Technologies I Use Most
 
-Flutter • Dart
-Python • Django
-React • JavaScript
-Supabase • PostgreSQL
-Docker • Linux
+Flutter, Dart  
+Python, Django  
+React, JavaScript  
+Supabase, PostgreSQL  
+Docker, Linux
 
----
 
-## Things I'm Interested In
+## Interests
 
-- Human-centered software
-- Emotional AI systems
-- Developer tools
-- Education technology
-- Building products from idea to launch
+Human-centered software  
+Emotional AI systems  
+Developer tools  
+Education technology  
+Building products from idea to launch
 
----
 
-## Find Me
+## Links
 
 LinkedIn  
 https://linkedin.com/in/khaled-muhammad99
@@ -51,13 +47,7 @@ https://linkedin.com/in/khaled-muhammad99
 YouTube  
 https://youtube.com/@DevScope5
 
-Behance  
-https://behance.net/khaledmuhmmed
-
----
 
 ## Current Focus
 
-Right now I'm focused on shipping meaningful projects, improving my system design skills, and collaborating with other builders.
-
-If you're working on something interesting, feel free to reach out.
+Currently focused on shipping meaningful projects, improving system design skills, and collaborating with other developers.
