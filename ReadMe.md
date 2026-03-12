@@ -4,9 +4,9 @@ Student developer from Alexandria, Egypt.
 
 I enjoy building tools that solve real problems, especially around productivity, emotional awareness, and developer tooling.
 
-BASEF 2025 – 1st Place  
+BASEF 2026 – 1st Place  
 WorldSkills Egypt 2025 – 2nd Place  
-ISEF Finalist 2026
+ISEF 2026 qualifier
 
 
 ## What I'm Building
