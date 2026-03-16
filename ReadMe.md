@@ -12,7 +12,7 @@ ISEF 2026 qualifier
 
 🔗 **iamkhaled.xyz** (https://iamkhaled.xyz/)
 
-*Note: Projects and certificates shown are from earlier work — currently focused on new builds. More updates coming soon.*
+*Note: Projects and certificates shown are from earlier work ... currently focused on new builds. More updates coming soon.*
 
 ## What I'm Building
 
