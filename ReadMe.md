@@ -8,18 +8,22 @@ BASEF 2026 – 1st Place
 WorldSkills Egypt 2025 – 2nd Place  
 ISEF 2026 qualifier
 
+## Portfolio
+
+🔗 **iamkhaled.xyz** (https://iamkhaled.xyz/)
+
+*Note: Projects and certificates shown are from earlier work — currently focused on new builds. More updates coming soon.*
 
 ## What I'm Building
 
-Emovate  
+**Emovate**  
 An AI-powered productivity system that combines emotional awareness with task management and adaptive scheduling.
 
-Flutter developer tools  
+**Flutter developer tools**  
 Small utilities and experiments focused on improving developer workflows.
 
-AI and behavioral systems  
+**AI and behavioral systems**  
 Exploring how software can support emotional literacy, learning, and productivity.
-
 
 ## Technologies I Use Most
 
@@ -29,7 +33,6 @@ React, JavaScript
 Supabase, PostgreSQL  
 Docker, Linux
 
-
 ## Interests
 
 Human-centered software  
@@ -38,16 +41,12 @@ Developer tools
 Education technology  
 Building products from idea to launch
 
-
 ## Links
 
-LinkedIn  
-https://linkedin.com/in/khaled-muhammad99
-
-YouTube  
-https://youtube.com/@DevScope5
-
+🔗 **Portfolio:** [iamkhaled.xyz](https://iamkhaled.xyz/)  
+💼 **LinkedIn:** [linkedin.com/in/khaled-muhammad99](https://linkedin.com/in/khaled-muhammad99)  
+🎥 **YouTube:** [youtube.com/@DevScope5](https://youtube.com/@DevScope5)  
 
 ## Current Focus
 
-Currently focused on shipping meaningful projects, improving system design skills, and collaborating with other developers.
+Shipping meaningful projects, improving system design skills, and collaborating with other developers.
