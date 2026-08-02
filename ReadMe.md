@@ -10,7 +10,7 @@ ISEF 2026 qualifier
 
 ## Portfolio
 
-🔗 **iamkhaled.xyz** (https://iamkhaled.xyz/)
+🔗 **kcraft.dev**
 
 *Note: Projects and certificates shown are from earlier work ... currently focused on new builds. More updates coming soon.*
 
