@@ -6,7 +6,7 @@ I enjoy building tools that solve real problems, especially around productivity,
 
 BASEF 2026 – 1st Place  
 WorldSkills Egypt 2025 – 2nd Place  
-ISEF 2026 qualifier
+ISEF 2026 Finalist
 
 ## Portfolio
 
